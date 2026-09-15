@@ -1,0 +1,24 @@
+/* Task 2 and Task 5: your styles go here */
+body{
+    
+    font-family:'Times New Roman', Times, serif;
+}
+.card{
+    border: 1px solid #555;
+    display: flex;
+    gap: 1em;
+    padding: 1em;
+    border-radius: 8px;
+    margin: 1em;
+    img {
+        width: 180px;
+    }
+}
+
+.description{
+ display: block;
+}
+
+.hidden{
+    display: none;
+}

@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "web1-26-s2"
+assignment: "practice-sba"
+owner:
+  username: "DAWSLJ1"
+  id: 281773976
+  accepted_at: "2026-09-10T22:04:06Z"
+source:
+  owner: "bit-web-1"
+  owner_id: 45216139
+  repo: "practicesbatemplate2026s2"
+  branch: "main"
